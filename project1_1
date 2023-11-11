@@ -16,7 +16,7 @@
 <body>
 
 <div class="p-5 bg-primary text-white text-center">
-  <h1>project1_1</h1>
+  <h1>Project1_1</h1>
   <p>Resize this responsive page to see the effect!</p> 
 </div>
 
@@ -27,7 +27,7 @@
         <a class="nav-link active" href="#">Active</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="#">Act6_Income Tax</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
@@ -44,8 +44,12 @@
     <div class="col-sm-4">
       <h2>About Me</h2>
       <h5>Photo of me:</h5>
-      <div class="fakeimg">Fake Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+      <div class="profileImage">Profile Image</div>
+      <img src="https://i.ibb.co/Qn9KvBk/byd98dpstwm41.jpg" alt="https://i.ibb.co/Qn9KvBk/byd98dpstwm41.jpg" width="100" height="100">
+      <p>Student:Rithya Y<br>
+        Class:CIS164<br>
+        Hobbies: Model kit building, computer building, and camping
+      </p>
       <h3 class="mt-4">Some Links</h3>
       <p>Lorem ipsum dolor sit ame.</p>
       <ul class="nav nav-pills flex-column">
@@ -53,7 +57,7 @@
           <a class="nav-link active" href="#">Active</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <a class="nav-link" href="#">Act6 Income Tax</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
